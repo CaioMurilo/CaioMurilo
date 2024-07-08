@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Caio Murilo Silva de Oliveira.
 
 - 👨🏼‍🎓 Hoje sou estudante de Engenharia de Software.
-- 🤖 Tenho um forte interesse em análise de dados.
+- 🤖 7D3
 - 📘 Estudo na Universidade Católica de Brasília.
-- 😒 pronomes: ele/dele.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
