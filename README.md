@@ -1,26 +1,36 @@
-### Olá! Eu sou o Caio Murilo Silva de Oliveira 👋
+# Caio Murilo Silva de Oliveira
+**Engenheiro de Software | Dados & IA**
 
-**Aspirante a Analista de Dados | Estudante de Engenharia de Software**
+Engenheiro de Software com direcionamento para Dados e Inteligência Artificial. Atuo no desenvolvimento de sistemas utilizando Python e C++, aplicando conceitos de arquitetura de software, modelagem de dados e automação. Busco oportunidades em desenvolvimento ou análise de dados, onde eu possa aplicar lógica de programação e ferramentas técnicas para construir soluções funcionais e otimizar processos de negócios.
 
-Sou estudante do 8º semestre de Engenharia de Software na Universidade Católica de Brasília (UCB) e estou focado em construir minha carreira na área de Dados. Sou apaixonado por resolver problemas lógicos e otimizar processos.
+## Competências Técnicas
 
-* **Atualmente focando em:** Análise de Dados, Automação com Python e Cloud Computing.
-* **Estudando no momento:** Formação Cientista de Dados e Fundamentos de Nuvem (Escola da Nuvem).
-* **Formação:** Engenharia de Software - UCB (Previsão: Dez/2026).
-* **Buscando:** Minha primeira oportunidade como Analista de Dados Júnior ou Estagiário.
+* **Linguagens:** `Python` | `C++` | `SQL` | `R (Básico)`
+* **Dados & IA:** `Pandas` | `NumPy` | `Scikit-learn`
+* **Bancos de Dados:** `PostgreSQL` | `MySQL`
+* **Infraestrutura & Ferramentas:** `AWS` | `Docker` | `Git/GitHub`
 
-### Tecnologias e Ferramentas
-* **Linguagens:** Python, R (Básico)
-* **Dados & Automação:** Extração de Dados, Automação de Tarefas, Excel
-* **Cloud & Infraestrutura:** Fundamentos de Nuvem
-* **Fundamentos:** Lógica de Programação, Engenharia de Software, Git/GitHub
+## Experiência e Projetos
 
-### Vamos nos conectar!
-<p align="left">
-  <a href="mailto:murilocaiomurilo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/murilocaiomurilo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</p>
+**Projetos Práticos em Engenharia de Software** | *08/2023 - Presente*
+* Desenvolvi projetos de software a partir do levantamento de requisitos até a implementação, utilizando programação e lógica para a resolução de problemas.
+* Construí documentações técnicas para padronizar e registrar o ciclo de vida e a arquitetura das aplicações.
+* Apliquei fundamentos de estruturas de dados e algoritmos para implementar funcionalidades em cenários práticos.
+
+**Cerimoniário (Trabalho Voluntário)** | *06/2026 - Presente*
+* Liderei equipes, definindo funções e direcionando tarefas operacionais.
+* Organizei a execução prática de cerimônias, assegurando pontualidade e o cumprimento de preceitos.
+* Resolvi imprevistos, realocando recursos e adaptando o fluxo de trabalho em tempo real.
+
+## Formação e Certificações
+
+* **Engenharia de Software** - Universidade Católica de Brasília (UCB) | *02/2023 - 12/2026*
+* **Fundamentos de Computação em Nuvem (AWS re/Start)** - Escola da Nuvem (300h)
+* **Formação Cientista de Dados: O Curso Completo** - Udemy (47h)
+* **Python 3 do Básico ao Avançado com Projetos Reais** - Udemy (141h)
+
+## Contato
+
+* **LinkedIn:** [linkedin.com/in/murilocaiomurilo](https://linkedin.com/in/murilocaiomurilo)
+* **Portfólio:** [caiomurilo.pythonanywhere.com](https://caiomurilo.pythonanywhere.com)
+* **E-mail:** murilocaiomurilo@gmail.com
